@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nimbleAPT",
+    "oncran": true
+  },
+  {
+    "package": "nimbleNoBounds",
+    "oncran": true
+  }
+]
