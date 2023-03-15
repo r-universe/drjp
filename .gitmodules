@@ -3,15 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "nimbleNoBounds"]
-	path = nimbleNoBounds
-	url = https://github.com/drjp/nimblenobounds
-	shallow = true
-	subdir = nimbleNoBounds
-	registered = true
 [submodule "nimbleAPT"]
 	path = nimbleAPT
 	url = https://github.com/drjp/nimbleapt
 	shallow = true
 	subdir = nimbleAPT
+	registered = true
+[submodule "nimbleNoBounds"]
+	path = nimbleNoBounds
+	url = https://github.com/drjp/nimblenobounds
+	shallow = true
+	subdir = nimbleNoBounds
 	registered = true
